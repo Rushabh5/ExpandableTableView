@@ -15,6 +15,7 @@
 		9BD4FACE22C4C2A40046CDEB /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = 9BD4FACD22C4C2A40046CDEB /* data.json */; };
 		9BD4FAD122C4C4E90046CDEB /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD4FAD022C4C4E90046CDEB /* MenuItem.swift */; };
 		9BD4FAD322C4C7370046CDEB /* BaseTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BD4FAD222C4C7370046CDEB /* BaseTableViewCell.swift */; };
+		9BD4FADA22C4D7030046CDEB /* Expand.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9BD4FAD922C4D7030046CDEB /* Expand.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		9BD4FACD22C4C2A40046CDEB /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
 		9BD4FAD022C4C4E90046CDEB /* MenuItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItem.swift; sourceTree = "<group>"; };
 		9BD4FAD222C4C7370046CDEB /* BaseTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseTableViewCell.swift; sourceTree = "<group>"; };
+		9BD4FAD922C4D7030046CDEB /* Expand.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Expand.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				9BD4FACF22C4C4D10046CDEB /* Model */,
 				9BD4FAD422C4CD150046CDEB /* View */,
 				9BD4FAC222C4C27E0046CDEB /* Assets.xcassets */,
+				9BD4FAD922C4D7030046CDEB /* Expand.gif */,
 				9BD4FAC722C4C27E0046CDEB /* Info.plist */,
 			);
 			path = ExpandableTableView;
@@ -163,6 +166,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BD4FADA22C4D7030046CDEB /* Expand.gif in Resources */,
 				9BD4FAC622C4C27E0046CDEB /* LaunchScreen.storyboard in Resources */,
 				9BD4FAC322C4C27E0046CDEB /* Assets.xcassets in Resources */,
 				9BD4FAC122C4C27C0046CDEB /* Main.storyboard in Resources */,
