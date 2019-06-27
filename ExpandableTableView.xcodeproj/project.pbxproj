@@ -46,6 +46,7 @@
 		9BD4FAAF22C4C27C0046CDEB = {
 			isa = PBXGroup;
 			children = (
+				9BD4FAD922C4D7030046CDEB /* Expand.gif */,
 				9BD4FABA22C4C27C0046CDEB /* ExpandableTableView */,
 				9BD4FAB922C4C27C0046CDEB /* Products */,
 			);
@@ -67,7 +68,6 @@
 				9BD4FACF22C4C4D10046CDEB /* Model */,
 				9BD4FAD422C4CD150046CDEB /* View */,
 				9BD4FAC222C4C27E0046CDEB /* Assets.xcassets */,
-				9BD4FAD922C4D7030046CDEB /* Expand.gif */,
 				9BD4FAC722C4C27E0046CDEB /* Info.plist */,
 			);
 			path = ExpandableTableView;
