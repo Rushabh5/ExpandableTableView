@@ -1,0 +1,43 @@
+{
+  "3" : {
+    "11" : "Men"
+  },
+  "subcats_20" : {
+    "22" : "Bottoms",
+    "subcats_22" : {
+      "28" : "Shorts",
+      "27" : "Pants"
+    },
+    "21" : "Tops",
+    "subcats_21" : {
+      "25" : "Tees",
+      "24" : "Hoodies & Sweatshirts",
+      "23" : "Jackets",
+      "26" : "Bras & Tanks"
+    }
+  },
+  "6" : {
+    "37" : "Sale"
+  },
+  "2" : {
+    "20" : "Women"
+  },
+  "subcats_11" : {
+    "subcats_12" : {
+      "17" : "Tanks",
+      "16" : "Tees",
+      "15" : "Hoodies & Sweatshirts",
+      "14" : "Jackets"
+    },
+    "13" : "Bottoms",
+    "12" : "Tops",
+    "subcats_13" : {
+      "18" : "Pants",
+      "19" : "Shorts",
+      "subcats_18" : {
+          "18" : "Formal",
+          "19" : "Jeans"
+      }
+    }
+  }
+}
